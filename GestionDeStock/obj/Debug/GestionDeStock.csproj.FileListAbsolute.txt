@@ -1,0 +1,10 @@
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.csprojAssemblyReference.cache
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.GestionStock.resources
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.Properties.Resources.resources
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\bin\Debug\GestionDeStock.exe.config
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\bin\Debug\GestionDeStock.exe
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\bin\Debug\GestionDeStock.pdb
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.exe
+C:\Users\mattc\source\repos\GestionDeStock\GestionDeStock\obj\Debug\GestionDeStock.pdb

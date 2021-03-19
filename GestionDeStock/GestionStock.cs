@@ -17,9 +17,20 @@ namespace GestionDeStock
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        /*private void label1_Click(object sender, EventArgs e)
         {
 
         }
+
+        public readonly string textBoxRefSte // affiche dans la form1
+        {
+            get { return textBoxRefSte.Text; }
+        }
+
+        private void textBoxRefSte_TextChanged(object sender, EventArgs e)
+        {
+            string txt = GestionStock.textBoxRefSte;
+
+        }*/
     }
 }
